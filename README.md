@@ -36,7 +36,7 @@ Use any interative algorithmus or process that can be captures with states.
 ### 2. Transform and project
 Use a projection technique on your data. Transform you data if necessary.
 
-Interpret you process and why.
+Interpret your process and why.
 
 ### 3. Format data for the application
 Format your projected data as specified to be able to upload it.
