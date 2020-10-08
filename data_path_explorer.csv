@@ -1,0 +1,16 @@
+x,y,line,cp,algo
+0.0,0,0,start,1
+2.0,1,0,state,1
+4.0,4,0,state,1
+6.0,1,0,state,1
+8.0,0,0,state,1
+12.0,0,0,end,1
+-1.0,10,1,start,2
+0.5,5,1,state,2
+2.0,3,1,state,2
+3.5,0,1,state,2
+5.0,3,1,state,2
+6.5,5,1,state,2
+8.0,10,1,end,2
+3.0,6,2,start,2
+2.0,7,2,end,2
