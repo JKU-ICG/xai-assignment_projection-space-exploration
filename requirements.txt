@@ -1,0 +1,9 @@
+#python dependencies
+notebook
+jupyterlab
+pandas
+matplotlib
+seaborn
+altair
+plotly
+openTSNE
