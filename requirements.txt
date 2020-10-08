@@ -7,3 +7,5 @@ seaborn
 altair
 plotly
 openTSNE
+scikit-learn
+scipy
