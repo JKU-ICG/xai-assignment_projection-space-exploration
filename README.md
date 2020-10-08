@@ -30,7 +30,7 @@ Perform the following tasks.
 Then download the notebook as HTML and submit it.
 You can use all or a subset of the data for the tasks. Additional data-wrangling may be necessary.
 
-### 1. Select/create your data
+### 1. Load/create your data
 Use any interative algorithmus or process that can be captures with states.
 
 ### 2. Transform and project
