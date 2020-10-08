@@ -30,3 +30,19 @@ Perform the following tasks.
 Then download the notebook as HTML and submit it.
 You can use all or a subset of the data for the tasks. Additional data-wrangling may be necessary.
 
+### 1. Select/create your data
+Use any interative algorithmus or process that can be captures with states.
+
+### 2. Transform and project
+Use a projection technique on your data. Transform you data if necessary.
+
+Interpret you process and why.
+
+### 3. Format data for the application
+Format your projected data as specified to be able to upload it.
+
+### 4. Show and interpret result
+Make a screenshot of your data in the application and add it to the notebook.
+
+Interpret the result.
+
