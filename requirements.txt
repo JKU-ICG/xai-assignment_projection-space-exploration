@@ -9,3 +9,4 @@ plotly
 openTSNE
 scikit-learn
 scipy
+umap-learn
