@@ -9,20 +9,20 @@ git clone https://github.com/JKU-ICG/xai_explore_projected_space
 cd xai_explore_projected_space
 ```
 
-Create a new environemnt and install the packages:
+Load the conda environment from the shared `environment.yml` file:
 ```
-conda create --name xai_explore_projected_space
-conda activate xai_explore_projected_space
-conda install -c conda-forge --yes --file requirements.txt
+conda env create -f environment.yml
+conda activate
 ```
-Hint: For more information on Anaconca and enviroments take a look at the README form our [tutorial repository](https://github.com/JKU-ICG/python-visualization-tutorial).
+
+> Hint: For more information on Anaconda and enviroments take a look at the README form our [tutorial repository](https://github.com/JKU-ICG/python-visualization-tutorial).
 
 Then launch Jupyter Lab :
 ```
-jupyter lab 
+jupyter lab
 ```
 
-Goto http://localhost:8888/ and open the *template* notebook.
+Go to http://localhost:8888/ and open the *template* notebook.
 
 ## Tasks
 
@@ -45,4 +45,3 @@ Format your projected data as specified to be able to upload it.
 Make a screenshot of your data in the application and add it to the notebook.
 
 Interpret the result.
-
