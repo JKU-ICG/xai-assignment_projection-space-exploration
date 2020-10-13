@@ -12,7 +12,7 @@ cd xai_explore_projected_space
 Load the conda environment from the shared `environment.yml` file:
 ```
 conda env create -f environment.yml
-conda activate
+conda activate xai_explore_projected_space
 ```
 
 > Hint: For more information on Anaconda and enviroments take a look at the README form our [tutorial repository](https://github.com/JKU-ICG/python-visualization-tutorial).
