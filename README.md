@@ -1,5 +1,8 @@
 
-# Instructions
+# Explainable AI - Exploration of Projection Spaces
+In this task you are challenged to analyze and compare solutions of a problem, game, algorithm, model or anything else that can be represented by sequential states.
+For this, you will project the data, link the states, and add meta-data to the visualization.
+Details on the individual tasks can be found in the notebook.
 
 ## Development Environment
 
@@ -17,31 +20,16 @@ conda activate xai_explore_projected_space
 
 > Hint: For more information on Anaconda and enviroments take a look at the README form our [tutorial repository](https://github.com/JKU-ICG/python-visualization-tutorial).
 
-Then launch Jupyter Lab :
+Then launch Jupyter Lab:
 ```
 jupyter lab
 ```
 
 Go to http://localhost:8888/ and open the *template* notebook.
 
-## Tasks
+## Submission
 
-Perform the following tasks.
-Then download the notebook as HTML and submit it.
-You can use all or a subset of the data for the tasks. Additional data-wrangling may be necessary.
-
-### 1. Load/create your data
-Use any interative algorithmus or process that can be captures with states.
-
-### 2. Transform and project
-Use a projection technique on your data. Transform you data if necessary.
-
-Interpret your process and why.
-
-### 3. Format data for the application
-Format your projected data as specified to be able to upload it.
-
-### 4. Show and interpret result
-Make a screenshot of your data in the application and add it to the notebook.
-
-Interpret the result.
+* Make sure that you pushed your GitHub repository and not just committed it locally.
+* Sending us an email with the code is not necessary.
+* Please update the *environment.yml* file if you need additional libraries, otherwise the code is not executeable.
+* Save your final executed notebook(s) as html (File > Download as > HTML) and add them to your repository.
