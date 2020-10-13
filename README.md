@@ -27,6 +27,8 @@ jupyter lab
 
 Go to http://localhost:8888/ and open the *template* notebook.
 
+Alternatively, you can also work with [binder](https://mybinder.org/).
+
 ## Submission
 
 * Make sure that you pushed your GitHub repository and not just committed it locally.
