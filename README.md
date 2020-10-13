@@ -3,9 +3,9 @@
 
 ## Development Environment
 
-Checkout this repo and change into the folder:
+Checkout this repo and change into the folder
 ```
-git clone https://github.com/JKU-ICG/xai_explore_projected_space
+git clone <URL>
 cd xai_explore_projected_space
 ```
 
