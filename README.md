@@ -4,6 +4,8 @@ In this task you are challenged to analyze and compare solutions of a problem, g
 For this, you will project the data, link the states, and add meta-data to the visualization.
 Details on the individual tasks can be found in the notebook.
 
+An exemplary solution is provided in the `solution_rubik.ipynb` notebook.
+
 ## General Information Submission due 04.11.2020, 23:59
 
 For the intermediate submission, please enter the group and dataset information. Coding is not yet necessary.
