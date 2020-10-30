@@ -6,7 +6,7 @@ Details on the individual tasks can be found in the notebook.
 
 An exemplary solution is provided in the `solution_rubik.ipynb` notebook.
 
-## General Information Submission due 04.11.2020, 23:59
+## General Information Submission due 11.11.2020, 23:59
 
 For the intermediate submission, please enter the group and dataset information. Coding is not yet necessary.
 
@@ -33,7 +33,7 @@ Please add your dataset to the repository (or provide a link if it is too large)
 [TODO]
 
 
-## Final Submission due 18.11.2020, 23:59
+## Final Submission due 25.11.2020, 23:59
 
 * Make sure that you pushed your GitHub repository and not just committed it locally.
 * Sending us an email with the code is not necessary.
