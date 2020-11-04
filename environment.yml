@@ -1,17 +1,23 @@
-name: xai_explore_projected_space
+name: xai_proj_space
 channels:
   - conda-forge
   - defaults
 dependencies:
   - python
-  - matplotlib
-  - umap-learn
-  - jupyterlab
-  - plotly
-  - scikit-learn
-  - altair
+  - pip
   - notebook
-  - seaborn
-  - scipy
-  - opentsne
+  - jupyterlab
   - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - umap-learn
+  - matplotlib
+  - seaborn
+  - plotly
+  - altair
+  - opentsne
+  - gym
+  - pip:
+    - gym_2048
+    - numpy>=1.19

@@ -43,14 +43,14 @@ Please add your dataset to the repository (or provide a link if it is too large)
 
 Checkout this repo and change into the folder:
 ```
-git clone <URL>
-cd xai_explore_projected_space
+git clone https://github.com/jku-icg-classroom/xai_proj_space_2020-<GROUP_NAME>.git
+cd xai_proj_space_2020-<GROUP_NAME>
 ```
 
 Load the conda environment from the shared `environment.yml` file:
 ```
 conda env create -f environment.yml
-conda activate xai_explore_projected_space
+conda activate xai_proj_space
 ```
 
 > Hint: For more information on Anaconda and enviroments take a look at the README in our [tutorial repository](https://github.com/JKU-ICG/python-visualization-tutorial).
