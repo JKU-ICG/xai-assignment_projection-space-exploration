@@ -15,3 +15,7 @@ dependencies:
   - scipy
   - opentsne
   - pandas
+  - numpy
+  - gym
+  - gym_2048
+  - pytorch
