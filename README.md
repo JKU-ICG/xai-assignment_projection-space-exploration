@@ -2,7 +2,7 @@
 # Explainable AI Assignment 1: Projection Space Exploration
 In this assignment, you are challenged to analyze and compare solutions of a problem, game, algorithm, model, or anything else that can be represented by sequential states. For this, you will project the high-dimensional states to the two-dimensional space, connect the states, and add meta-data to the visualization.
 
-An exemplary solution is provided in the `solution_rubik.ipynb` notebook.
+Exemplary solutions are provided in the `solution_rubik.ipynb` and `solution_2048.ipynb` notebooks.
 
 ## General Information Submission due on 11.11.2020, 23:59
 
