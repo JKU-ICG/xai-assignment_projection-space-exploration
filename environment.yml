@@ -20,3 +20,4 @@ dependencies:
   - gym
   - pip:
     - gym_2048
+    - numpy>=1.19
