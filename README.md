@@ -2,7 +2,9 @@
 # Explainable AI Assignment 1: Projection Space Exploration
 In this assignment, you are challenged to analyze and compare solutions of a problem, game, algorithm, model, or anything else that can be represented by sequential states. For this, you will project the high-dimensional states to the two-dimensional space, connect the states, and add meta-data to the visualization.
 
-Exemplary solutions are provided in the `solution_rubik.ipynb` and `solution_2048.ipynb` notebooks.
+Exemplary solutions are provided in the `solution_rubik.ipynb` and `solution_2048.ipynb` notebooks. 
+
+Further examples to analyze are (board) games and approximation algorithms. The 2048 notebook uses [OpenAI Gym](https://gym.openai.com/) to create a game environment and produce state data. There is a variety of first and third party environments for Gym that can be used.
 
 ## General Information Submission due on 11.11.2020, 23:59
 
