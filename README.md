@@ -38,7 +38,6 @@ Please add your dataset to the repository (or provide a link if it is too large)
 * Make sure that you pushed your GitHub repository and not just committed it locally.
 * Sending us an email with the code is not necessary.
 * Update the *environment.yml* file if you need additional libraries, otherwise the code is not executeable.
-* Make sure only you data is in the data folder.
 * Create a single notebook with your solution, e.g. solution.ipynb.
 * Save your final executed notebook as html (File > Download as > HTML) and add them to your repository.
 
