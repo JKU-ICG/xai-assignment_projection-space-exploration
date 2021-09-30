@@ -6,7 +6,7 @@ Exemplary solutions are provided in the `solution_rubik.ipynb` and `solution_204
 
 Further examples to analyze are (board) games and approximation algorithms. The 2048 notebook uses [OpenAI Gym](https://gym.openai.com/) to create a game environment and produce state data. There is a variety of first and third party environments for Gym that can be used.
 
-## General Information Submission due on 03.11.2020, 23:59
+## General Information Submission due on 03.11.2021, 23:59
 
 For the intermediate submission, please enter the group and dataset information. Coding is not yet necessary.
 
@@ -33,7 +33,7 @@ Please add your dataset to the repository (or provide a link if it is too large)
 [TODO]
 
 
-## Final Submission due on 10.11.2020, 23:59
+## Final Submission due on 10.11.2021, 23:59
 
 * Make sure that you pushed your GitHub repository and not just committed it locally.
 * Sending us an email with the code is not necessary.
