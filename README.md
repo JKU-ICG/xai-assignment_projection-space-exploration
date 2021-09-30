@@ -14,12 +14,12 @@ For the intermediate submission, please enter the group and dataset information.
 
 **Group Members**
 
-| Student ID    | First Name  | Last Name      | E-Mail |
-| --------------|-------------|----------------|--------|
-| [TODO]        | [TODO]      | [TODO]         |        |
-| [TODO]        | [TODO]      | [TODO]         |        |
-| [TODO]        | [TODO]      | [TODO]         |        |
-| [TODO]        | [TODO]      | [TODO]         |        |
+| Student ID    | First Name  | Last Name      |  Workload [%] | E-Mail |
+| --------------|-------------|----------------|---------------|--------|
+| [TODO]        | [TODO]      | [TODO]         |[TODO]         |[TODO]  |
+| [TODO]        | [TODO]      | [TODO]         |[TODO]         |[TODO]  |
+| [TODO]        | [TODO]      | [TODO]         |[TODO]         |[TODO]  |
+| [TODO]        | [TODO]      | [TODO]         |[TODO]         |[TODO]  |
 
 ### Dataset
 Please add your dataset to the repository (or provide a link if it is too large) and answer the following questions about it:
