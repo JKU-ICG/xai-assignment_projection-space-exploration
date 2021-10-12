@@ -15,3 +15,5 @@ dependencies:
   - scipy
   - opentsne
   - pandas
+  - pip:
+    - git+https://github.com/dvmarkusvogl/gym-2048.git
