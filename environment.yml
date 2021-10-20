@@ -19,5 +19,4 @@ dependencies:
   - opentsne
   - gym
   - pip:
-    - gym_2048
-    - numpy>=1.19
+    - git+https://github.com/dvmarkusvogl/gym-2048.git
