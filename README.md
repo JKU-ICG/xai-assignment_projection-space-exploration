@@ -6,7 +6,7 @@ Exemplary solutions are provided in the `solution_rubik.ipynb` and `solution_204
 
 Further examples to analyze are (board) games and approximation algorithms. The 2048 notebook uses [OpenAI Gym](https://gym.openai.com/) to create a game environment and produce state data. There is a variety of first and third party environments for Gym that can be used.
 
-## General Information Submission due on 11.11.2020, 23:59
+## General Information Submission due on 03.11.2021, 23:59
 
 For the intermediate submission, please enter the group and dataset information. Coding is not yet necessary.
 
@@ -14,12 +14,12 @@ For the intermediate submission, please enter the group and dataset information.
 
 **Group Members**
 
-| Student ID    | First Name  | Last Name      | E-Mail |
-| --------------|-------------|----------------|--------|
-| [TODO]        | [TODO]      | [TODO]         |        |
-| [TODO]        | [TODO]      | [TODO]         |        |
-| [TODO]        | [TODO]      | [TODO]         |        |
-| [TODO]        | [TODO]      | [TODO]         |        |
+| Student ID    | First Name  | Last Name      | E-Mail |  Workload [%] |
+| --------------|-------------|----------------|--------|---------------|
+| [TODO]        | [TODO]      | [TODO]         |[TODO]  |[TODO]         |
+| [TODO]        | [TODO]      | [TODO]         |[TODO]  |[TODO]         |
+| [TODO]        | [TODO]      | [TODO]         |[TODO]  |[TODO]         |
+| [TODO]        | [TODO]      | [TODO]         |[TODO]  |[TODO]         |
 
 ### Dataset
 Please add your dataset to the repository (or provide a link if it is too large) and answer the following questions about it:
@@ -33,20 +33,21 @@ Please add your dataset to the repository (or provide a link if it is too large)
 [TODO]
 
 
-## Final Submission due on 25.11.2020, 23:59
+## Final Submission due on 10.11.2021, 23:59
 
 * Make sure that you pushed your GitHub repository and not just committed it locally.
 * Sending us an email with the code is not necessary.
 * Update the *environment.yml* file if you need additional libraries, otherwise the code is not executeable.
-* Save your final executed notebook(s) as html (File > Download as > HTML) and add them to your repository.
+* Create a single notebook with your solution, e.g. solution.ipynb.
+* Save your final executed notebook as html (File > Download as > HTML) and add them to your repository.
 
 
 ## Development Environment
 
 Checkout this repo and change into the folder:
 ```
-git clone https://github.com/jku-icg-classroom/xai_proj_space_2020-<GROUP_NAME>.git
-cd xai_proj_space_2020-<GROUP_NAME>
+git clone https://github.com/jku-icg-classroom/xai_proj_space_2021-<GROUP_NAME>.git
+cd xai_proj_space_2021-<GROUP_NAME>
 ```
 
 Load the conda environment from the shared `environment.yml` file:
@@ -64,4 +65,4 @@ jupyter lab
 
 Go to http://localhost:8888/ and open the *template* notebook.
 
-Alternatively, you can also work with [binder](https://mybinder.org/).
+Alternatively, you can also work with [binder](https://mybinder.org/), [deepnote](https://deepnote.com/), [colab](https://colab.research.google.com/), or any other service as long as the notebook runs in the standard Jupyter environment.
