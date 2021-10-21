@@ -65,4 +65,4 @@ jupyter lab
 
 Go to http://localhost:8888/ and open the *template* notebook.
 
-Alternatively, you can also work with [binder](https://mybinder.org/).
+Alternatively, you can also work with [binder](https://mybinder.org/), [deepnote](https://deepnote.com/), [colab](https://colab.research.google.com/), or any other service as long as the notebook runs in the standard Jupyter environment.
