@@ -10,8 +10,6 @@ Further examples to analyze are (board) games and approximation algorithms. The 
 
 For the intermediate submission, please enter the group and dataset information. Coding is not yet necessary.
 
-**Team Name:** [TODO]
-
 **Group Members**
 
 | Student ID    | First Name  | Last Name      | E-Mail |  Workload [%] |
