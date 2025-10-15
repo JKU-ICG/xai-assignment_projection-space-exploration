@@ -11,6 +11,8 @@ In this assignment, you are challenged to visually analyze patterns emerging fro
 * Find a suitable visual encoding for the scatterplot by mapping high-dimensional data features to channels such as mark color, size, shape/complex glyphs, opacity, orientation, texture, stroke, text labels...
 * If you choose a trajectory dataset, you will render the edges by connecting states within a trajectory using lines or splines and apply visual encoding like color and thickness to these.
 
+[Tool for selecting color maps by variable type](https://colorbrewer2.org/#type=qualitative&scheme=Dark2&n=3)
+
 ### Analysis of Clusters, Outliers, and Other Patterns
 
 Depending on your dataset, the projection scatterplot will reveal patterns like clusters, outliers, and edge bundles. Because these scatterplot patterns alone are typically insufficient for making sense of the high-dimensional information, you will experiment with ways to visually analyze these patterns:
@@ -32,6 +34,8 @@ Depending on your dataset, the projection scatterplot will reveal patterns like 
 ---
 
 For example, if you choose a tabular dataset and want to analyze which features drive a cluster, you might want to use visualizations like bar charts, histograms, KDE plots, boxplots, or violin plots to visualize its categorical and continuous variables appropriately.
+
+[Visual Vocabulary Cheatsheet](https://gramener.github.io/visual-vocabulary-vega/#/FullList/)
 
 There may be too many features in your dataset to analyze plots of every single feature. In this case, you might want to first determine which features are the most important to visualize: For instance, using a statistical measure to rank how dissimilar each feature in your cluster distribution is from the overall data distribution, or from that of another cluster. Then you can visualize the top k features ranked by this statistical measure.
 
