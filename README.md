@@ -1,6 +1,8 @@
 
 # Explainable AI Assignment 1: Projection Space Exploration
 
+## General Assignment Information
+
 ### Dimensionality Reduction and Scatterplots
 
 In this assignment, you are challenged to visually analyze patterns emerging from projections of a dataset. For bonus points, you can optionally project and compare solutions of a problem, game, algorithm, model, or anything else that can be represented by sequential states/trajectories. For this, you will:
